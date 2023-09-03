@@ -33,4 +33,6 @@ C++    ████████████████████████�
 
 Feel free to explore my GitHub repositories, and let's create amazing things together! 😄🌟
 
+![Welcome Gif](https://media.giphy.com/media/xT1XGGqTDPVNzZ4mI4/giphy.gif)
+
 </div>
