@@ -1,16 +1,32 @@
-### Hi there 👋
+# It's Chariz, by the way! 👋
 
-<!--
-**chariz1101/chariz1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Chariz Gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-Here are some ideas to get you started:
+👩‍💻 I'm a passionate developer with a wide range of skills and a love for all things creative. Here's a quick look at what I bring to the table:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Expertise
+```
+HTML   ████████████████░░░░░░░░░░░░░░░░ 85%
+CSS    ████████████████░░░░░░░░░░░░░░░░ 85%
+C++    █████████████████████████░░░░░░░░ 100%
+```
+
+## 🚀 Experience
+- 💡 Arduino C++
+- ☕ Java
+- 💻 JavaScript
+- 🐍 Python
+
+## 🎨 Creative Skills
+- 🎨 Graphic Design
+- 🎥 Video Editing
+- 📹 Videography
+- 📷 Photography
+- 📐 Layouting
+
+## 🌐 Connect with me
+- Facebook Page: [Charchives](https://facebook.com/charchivesofficial)
+- Vercel Account: [chariz1101.vercel.app](https://chariz1101.vercel.app/)
+- Gmail: [charizdiannefalco@gmail.com](mailto:charizdiannefalco@gmail.com)
+
+Feel free to explore my GitHub repositories, and let's create amazing things together! 😄🌟
