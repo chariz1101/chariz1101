@@ -4,7 +4,9 @@
 
 ![Welcome Gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
-👩‍💻 I'm a passionate developer with a wide range of skills and a love for all things creative. Here's a quick look at what I bring to the table:
+**👩‍💻 I'm a passionate developer with a wide range of skills and a love for all things creative. Here's a quick look at what I bring to the table:
+**
+</div>
 
 ## 🌟 Expertise
 ```
@@ -33,4 +35,4 @@ C++    ████████████████████████�
 
 Feel free to explore my GitHub repositories, and let's create amazing things together! 😄🌟
 
-</div>
+
