@@ -1,6 +1,8 @@
+<div align="center">
+
 # It's Chariz, by the way! 👋
 
-![Chariz Gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Welcome Gif](https://media.giphy.com/media/xT1XGGqTDPVNzZ4mI4/giphy.gif)
 
 👩‍💻 I'm a passionate developer with a wide range of skills and a love for all things creative. Here's a quick look at what I bring to the table:
 
@@ -30,3 +32,5 @@ C++    ████████████████████████�
 - Gmail: [charizdiannefalco@gmail.com](mailto:charizdiannefalco@gmail.com)
 
 Feel free to explore my GitHub repositories, and let's create amazing things together! 😄🌟
+
+</div>
