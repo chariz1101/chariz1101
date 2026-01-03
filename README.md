@@ -6,7 +6,7 @@
 
 👩‍💻 **CS Student (AI Major)** • **Robotics Enthusiast** • **Full-Stack Developer**
 
-I'm a developer passionate about bridging the gap between hardware and software. Currently serving as the **President** of the MRSP-WV Junior Chapter and a **Samsung Student Ambassador**.
+I'm a developer passionate about bridging the gap between hardware and software. Currently serving as the **President** of the MRSP-WV Junior Chapter.
 
 </div>
 
