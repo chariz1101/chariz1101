@@ -2,8 +2,6 @@
 
 # It's Chariz, by the way! 👋
 
-![Welcome Gif](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
-
 👩‍💻 **CS Student (AI Major)** • **Robotics Enthusiast** • **Full-Stack Developer**
 
 I'm a developer passionate about bridging the gap between hardware and software. Currently serving as the **President** of the MRSP-WV Junior Chapter.
