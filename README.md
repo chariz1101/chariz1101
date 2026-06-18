@@ -8,13 +8,6 @@ I'm a developer passionate about bridging the gap between hardware and software.
 
 </div>
 
-## 🌟 Expertise
-```text
-Front-End (React/Next.js)  ███████████████████░░░░░ 85%
-Mobile (Flutter/Dart)      ████████████████░░░░░░░░ 75%
-Robotics (C++/Arduino)     ████████████████████████ 100%
-```
-
 ## 🛠 Tech Stack
 **💻 Web & Mobile Development**
 - **Frameworks:** Next.js 15.5, React 19, Flutter
