@@ -4,7 +4,7 @@
 
 👩‍💻 **CS Student (AI Major)** • **Robotics Enthusiast** • **Full-Stack Developer**
 
-I'm a developer passionate about bridging the gap between hardware and software. Currently serving as the **President** of the MRSP-WV Junior Chapter.
+I'm a developer passionate about bridging the gap between hardware and software.
 
 </div>
 
@@ -26,8 +26,6 @@ I'm a developer passionate about bridging the gap between hardware and software.
 - 📷 Photography
 
 ## 🌐 Connect with me
-- Facebook Page: [Charchives](https://facebook.com/charchivesofficial)
-- Vercel Account: [chariz1101.vercel.app](https://chariz1101.vercel.app/)
 - Gmail: [charizdiannefalco@gmail.com](mailto:charizdiannefalco@gmail.com)
 - LinkedIn: [charizdiannefalco@gmail.com](https://www.linkedin.com/in/chariz-dianne-falco-12350626a/)
 
