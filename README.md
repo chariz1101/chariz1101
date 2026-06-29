@@ -2,7 +2,7 @@
 
 # It's Chariz, by the way! 👋
 
-👩‍💻 **CS Student (AI Major)** • **Robotics Enthusiast** • **Full-Stack Developer**
+👩‍💻 **CS Graduate (AI Major)** • **Robotics Enthusiast** • **Full-Stack Developer**
 
 I'm a developer passionate about bridging the gap between hardware and software.
 
