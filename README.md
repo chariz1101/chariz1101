@@ -27,7 +27,7 @@ I'm a developer passionate about bridging the gap between hardware and software.
 
 ## 🌐 Connect with me
 - Gmail: [charizdiannefalco@gmail.com](mailto:charizdiannefalco@gmail.com)
-- LinkedIn: [charizdiannefalco@gmail.com](https://www.linkedin.com/in/chariz-dianne-falco-12350626a/)
+- LinkedIn: [Chariz Dianne Falco](https://www.linkedin.com/in/chariz-dianne-falco-12350626a/)
 
 <div align="center">
 <i>Let's create amazing things together! 😄🌟</i>
