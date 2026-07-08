@@ -1,18 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e3a8a,100:2563eb&height=200&section=header&text=Chariz%20Dianne%20Falco&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Developer%20%C2%B7%20Robotics%20Enthusiast&descAlignY=52&descSize=20&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1e3a8a,100:00C74B&height=200&section=header&text=Chariz%20Dianne%20Falco&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Full-Stack%20Developer%20%C2%B7%20Robotics%20Enthusiast&descAlignY=52&descSize=20&animation=twinkling"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=650&lines=Bridging+Hardware+%26+Software;Building+with+Next.js%2C+React+%26+Flutter;Designing+Robots+with+Arduino+%26+ESP32;CS+Graduate+(AI+Major)" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C74B&center=true&vCenter=true&random=false&width=650&lines=Bridging+Hardware+%26+Software;Building+with+Next.js%2C+React+%26+Flutter;Designing+Robots+with+Arduino+%26+ESP32;CS+Graduate+(AI+Major)" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=charizdiannefalco&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=charizdiannefalco&label=Profile%20Views&color=00C74B&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<!-- <p align="center">
-  <a href=https://charchives.vercel.app/>
-    My portfolio
-  </a>
-</p> -->
+<p align="center">
+  <img href=https://charchives.vercel.app/ src="https://img.shields.io/badge/Portfolio-00C74B?style=for-the-badge"/>
+</p>
 
 <br/>
 
