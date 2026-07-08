@@ -8,6 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=charizdiannefalco&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views"/>
 </p>
 
+<!-- <p align="center">
+  <a href=https://charchives.vercel.app/>
+    My portfolio
+  </a>
+</p> -->
+
 <br/>
 
 <h2>👋 It's Chariz, by the way!</h2>
