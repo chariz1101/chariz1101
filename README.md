@@ -10,7 +10,6 @@
   <a href="mailto:charizdiannefalco@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://x.com/usernameischa"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.instagram.com/cha.dianne"><img src="https://img.shields.io/badge/Instagram-1e3a8a?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=chariz1101&label=Profile%20Views&color=00C74B&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <br/>
@@ -96,6 +95,10 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=chariz1101&show_icons=true&hide_border=true&title_color=00C74B&icon_color=00C74B&bg_color=00000000" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chariz1101&layout=compact&hide_border=true&title_color=00C74B&bg_color=00000000" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chariz1101&label=Profile%20Views&color=00C74B&style=flat-square" alt="Profile views"/>
 </p>
 
 <br/>
